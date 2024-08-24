@@ -15,6 +15,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?flat&logo=styled-components&logoColor=white)
 ![TypeScript](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=redux-toolkit-query)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next-black?flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?flat&logo=redux&logoColor=white)
