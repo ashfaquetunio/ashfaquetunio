@@ -9,7 +9,7 @@
 ### 🛠 My Stack
 https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5
 
-!https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white
+!(https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6
 
