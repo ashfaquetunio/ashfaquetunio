@@ -1,5 +1,3 @@
-Here's the concise .md format version of your professional profile:
-
 ```markdown
 # Ashfaque Ahmed  
 **Senior Frontend Engineer**  
