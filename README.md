@@ -1,4 +1,3 @@
-```markdown
 # Ashfaque Ahmed  
 **Senior Frontend Engineer**  
 📍 Karachi, Pakistan | 📧 ahmedashfaque522@gmail.com | 📞 +923422076556  
@@ -53,4 +52,3 @@ University of Karachi (2018-2021) | CGPA: 3.519
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashfaqueahmedtunio)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)](https://github.com/ashfaqueahmed)
-```
