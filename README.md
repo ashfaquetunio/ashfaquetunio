@@ -7,7 +7,8 @@
 ### Software Engineer  
 **Code Avenue** | Sep 2024 - Present  
 - Architecting scalable frontend systems  
-- Implementing advanced state management solutions  
+- Implementing advanced state management solutions
+- Developing Decentralized Apps (DApps)
 
 ### Frontend Developer (Contract)  
 **Zegatron Pvt Ltd** | Mar 2024 - Jul 2024  
